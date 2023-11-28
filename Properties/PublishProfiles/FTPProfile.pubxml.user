@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHCI0bfS6uUubOYAxYGkVWQAAAAACAAAAAAAQZgAAAAEAACAAAABSafNuM7KYPIwpduRjWTSvko/Xl4U/yjK6PFRoAvWyuAAAAAAOgAAAAAIAACAAAACU/2aQin7O4zzHsauVlJzu+VT33Doj04XI6MBGAr4POSAAAAByeC1/fNYhjhyCRSgICAP80NKGkweS4/oRss7uqLkQmkAAAACSpJLwVlXcLA74tljcgOIpUVOnGPkZvCq8SUpygEWnnSHndLmfhFInBS3SFtnaG1UJ23D9LW6dxWduV19arG1C</EncryptedPassword>
+    <_PublishTargetUrl>https://thegundualearning.scm.azurewebsites.net:443/TheGunduaLearning.git/https://thegundualearning.scm.azurewebsites.net:443</_PublishTargetUrl>
+    <History>False|2023-11-28T14:50:42.2666714Z;</History>
+  </PropertyGroup>
+</Project>

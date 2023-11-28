@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHCI0bfS6uUubOYAxYGkVWQAAAAACAAAAAAAQZgAAAAEAACAAAAC+8FC7kFxhk0WQNqZ+++NY6cHaQC6/hMxDrE1We4CBfAAAAAAOgAAAAAIAACAAAABD1ugKkoGwmmQKYGcuxXA7dBU4qsyMowbPljXuAp2R2YAAAADlhHjjMtq2BC7P0saoq1D1IHRTB4gMGPH45UyBiVMKq+goUXy/MeajsCSIkTVgXu7nhesAO+3HQITw9PVrTpsV8XsGJTF7Et1Z2hbtX1vSJDgIqnkASflnYBnXXSNoFeKP1cRuSFlA9KmWrRVqXEj1Fx1HA+bqWIiiUUJ77r8fUkAAAAAk7d1+UFXyat8fclbzkrjMxHPn4Pbr4Nu6r/AmlxYsvkLUMJWh8qnFfwn2sikhP6B+CbisumwNLA3JnLOO9WNx</EncryptedPassword>
+    <_PublishTargetUrl>ftp://thegundualearning.scm.azurewebsites.net:443/thegundualearning.scm.azurewebsites.net:443</_PublishTargetUrl>
+    <History>False|2023-11-28T17:18:14.3801519Z;False|2023-11-28T19:16:08.4581173+02:00;</History>
+  </PropertyGroup>
+</Project>
